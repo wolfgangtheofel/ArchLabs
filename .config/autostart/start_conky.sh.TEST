@@ -1,8 +1,0 @@
-#!/bin/bash
-
-sleep 3
-conky -c -d ~/.config/conky/wolfgang_analoguhr.conkyrc &
-sleep 5
-conky -c -d ~/.config/conky/wolfgang_systeminfo.conkyrc &
-exit 0
-
