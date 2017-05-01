@@ -1,0 +1,2 @@
+conky -c /home/wolfgang/.config/conky/wolfgang_Systeminfo-rechts.conkyrc & sleep 1s
+conky -c /home/wolfgang/.config/conky/wolfgang_AL-Ellipses-Time-Grey-Lua.conkyrc & sleep 1s

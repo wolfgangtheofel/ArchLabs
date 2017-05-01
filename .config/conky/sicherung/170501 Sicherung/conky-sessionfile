@@ -1,0 +1,3 @@
+conky -c /home/wolfgang/.config/conky/wolfgang_analoguhr.conkyrc & sleep 1s
+conky -c /home/wolfgang/.config/conky/wolfgang_systeminfo_unten.conkyrc & sleep 1s
+conky -c /home/wolfgang/.config/conky/wolfgang_spotify.conkyrc & sleep 1s

@@ -1,0 +1,41 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[DownloadDialog Settings]
+Height 1200=506
+Width 1920=700
+
+[General]
+Version=200
+ViewPropsTimestamp=2017,4,14,15,29,26
+
+[IconsMode]
+FontFamily=DejaVu Sans
+FontSize=11
+FontWeight=50
+UseSystemFont=false
+
+[KPropertiesDialog]
+Height 1200=457
+Width 1920=657
+
+[MainWindow]
+Height 1200=500
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADyAAAEQfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAUA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAABAAAAEQQAAAFcA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAABQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAUA////AAAGiAAABEEAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=750
+Window-Maximized 1200x1920=true
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[SettingsDialog]
+Height 1200=494
+Width 1920=528
+
+[ViewPropertiesDialog]
+Height 1200=480
+Width 1920=385

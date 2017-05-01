@@ -1,0 +1,10 @@
+<b>Configuration name: wolfgang_08-04-2017</b>	
+Saved at Sa 8. Apr 15:11:51 CEST 2017
+
+X terminal config:  /home/wolfgang/.bashrc;/home/wolfgang/.Xresources\n
+Openbox theme:  Bunsen-Blue-Dark\n
+GTK theme:  Bunsen-Blue\n
+Running Conkys:\t\n\t/home/wolfgang/.conkyrc;\n
+Running Tint2s:\t\n\t/home/wolfgang/.config/tint2/tint2rc\n
+Background set with nitrogen:\n/usr/share/backgrounds/Wall2.png;\n
+Lightdm config:  /etc/lightdm/lightdm-gtk-greeter.conf\n
